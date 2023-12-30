@@ -64,7 +64,7 @@ main{
 
 @media(max-width:1150px){  /*1550*/
     main{
-        grid-template-columns: repeat(2, 1fr);
+        grid-template-columns: repeat(2, 250px);
         
     }
 }
